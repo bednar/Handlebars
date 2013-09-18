@@ -1,0 +1,4 @@
+Handlebars
+==========
+
+Handlebars Maven Dependency
