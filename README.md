@@ -12,7 +12,7 @@
 
     <dependency>
         <groupId>com.github.bednar</groupId>
-        <artifactId>Handlebars</artifactId>
+        <artifactId>handlebars</artifactId>
         <version>1.0.0</version>
     </dependency>
 
